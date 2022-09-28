@@ -214,7 +214,6 @@
 }
 
 #liz-liens.liens>.contenu>.lien>.desc {
-  display: float;
   font-family: "Montserrat", sans-serif;
   text-align: justify;
   width: 335px;
